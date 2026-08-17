@@ -5,3 +5,4 @@ obj/
 # Local secrets — never commit real endpoint/key values
 appsettings.Development.json
 .env
+appsettings.json
