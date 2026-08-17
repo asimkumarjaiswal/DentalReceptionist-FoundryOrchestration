@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+
+# Local secrets — never commit real endpoint/key values
+appsettings.Development.json
+.env
